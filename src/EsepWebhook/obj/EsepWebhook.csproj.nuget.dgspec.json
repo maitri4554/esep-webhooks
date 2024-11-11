@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maitrijajoo/Desktop/esep9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {}
+    "/Users/maitrijajoo/Desktop/esep9/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj": {}
   },
   "projects": {
-    "/Users/maitrijajoo/Desktop/esep9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj": {
+    "/Users/maitrijajoo/Desktop/esep9/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maitrijajoo/Desktop/esep9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectUniqueName": "/Users/maitrijajoo/Desktop/esep9/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "/Users/maitrijajoo/Desktop/esep9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+        "projectPath": "/Users/maitrijajoo/Desktop/esep9/esep-webhooks/src/EsepWebhook/EsepWebhook.csproj",
         "packagesPath": "/Users/maitrijajoo/.nuget/packages/",
-        "outputPath": "/Users/maitrijajoo/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/",
+        "outputPath": "/Users/maitrijajoo/Desktop/esep9/esep-webhooks/src/EsepWebhook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maitrijajoo/.nuget/NuGet/NuGet.Config"
@@ -50,6 +50,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
